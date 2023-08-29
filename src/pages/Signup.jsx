@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { useDispatch } from 'react-redux';
-import { register } from 'redux/authorization/operations'; // Corrected the typo here
+import { register } from 'redux/authorisation/operations'; // Corrected the typo here
 import { NavLink } from 'react-router-dom';
 
 import Avatar from '@mui/material/Avatar';

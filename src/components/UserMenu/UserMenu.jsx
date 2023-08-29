@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 import { useAuth } from 'hooks/useAuth';
 import { useDispatch } from 'react-redux';
-import { logOut } from 'redux/authorization/operations'; // Corrected the typo here
+import { logOut } from 'redux/authorisation/operations'; // Corrected the typo here
 
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';

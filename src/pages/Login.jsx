@@ -9,7 +9,7 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { useDispatch } from 'react-redux';
-import { logIn } from 'redux/authorization/operations'; // Corrected the typo here
+import { logIn } from 'redux/authorisation/operations'; // Corrected the typo here
 import { NavLink } from 'react-router-dom';
 
 export default function Login() {
