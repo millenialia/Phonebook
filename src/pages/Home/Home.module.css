@@ -1,0 +1,20 @@
+.contactsIcon{
+display: block;
+margin: 0 auto;
+width: 100px;
+height: auto;
+fill: #c8e6c9;
+stroke: #1b5e20;
+stroke-width: .3;
+}
+
+.homeBox{
+  display: flex;
+  gap: 30px;
+  margin-top: 30px;
+  max-width: 70%;
+}
+
+.header{
+  text-align: right;
+}

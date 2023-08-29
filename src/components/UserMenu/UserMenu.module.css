@@ -1,0 +1,17 @@
+.userBox {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.userMenu {
+  width: 95%;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.navlink {
+  text-decoration: none;
+  color: inherit;
+}
