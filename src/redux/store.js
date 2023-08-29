@@ -13,7 +13,6 @@ import {
   REGISTER,
 } from 'redux-persist';
 import storage from 'redux-persist/lib/storage';
-import logger from 'redux-logger'
 
 const authPersistConfig = {
   key: 'auth',
