@@ -1,8 +1,8 @@
 .contactsIcon{
 display: block;
 margin: 0 auto;
-width: 150px;
-height: auto;
+/* width: 150px;
+height: auto; */
 fill: #c8e6c9;
 stroke: #1b5e20;
 stroke-width: .3;
