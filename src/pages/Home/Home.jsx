@@ -1,6 +1,5 @@
 import ContactsIcon from '@mui/icons-material/Contacts';
 import Container from '@mui/material/Container';
-import Avatar from '@mui/material/Avatar';
 import css from "./Home.module.css"
 import Typography from '@mui/material/Typography';
 
