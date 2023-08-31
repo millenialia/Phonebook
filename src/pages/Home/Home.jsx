@@ -5,7 +5,7 @@ import css from "./Home.module.css"
 
 const Home = () => {
   return (
-    <Container component="main" className={css.homeBox}>
+    <Container maxWidth= "70%" component="main" sx={{display: "flex", gap: "30px", margin: "30px 0 "}}>
         <ContactsIcon/>
       <Typography component="h1" variant="h2" className={css.header}>Everything you need to manage your contacts.</Typography>
     </Container>
