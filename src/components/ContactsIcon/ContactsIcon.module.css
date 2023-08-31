@@ -1,0 +1,14 @@
+.iconBox{
+
+  width: 150px;
+    height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contactsIcon {
+  fill: #2e7d32;
+  stroke: #1b5e20;
+  stroke-width: .3;
+}
